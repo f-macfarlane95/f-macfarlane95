@@ -1,10 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning for Bioinformatics Research
+- 🔭 I’m currently working on Machine Learning for Bioinformatics Research and High Throughput Phenotyping
 - 🌱 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on Deep Learning for various Image Analysis tasks
 - 🤔 I’m looking for help with labelling 🫐
 - 📫 How to reach me: email and twitter in bio
+
+## My Current Projects
+- Peatland Restoration using GIS and Deep Learning
+- Soft Fruit yield prediction with Mask RCNN
+- Barley yield estimation and biodiversity monitoring from UAV imagery
+- Disease detection and forecasting
+
+## Previous Work
+- 
+
+More on my github pages website - https://f-macfarlane95.github.io/
+
+#
 
 ![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -24,3 +37,4 @@
 ![Conda](https://img.shields.io/badge/-Conda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
