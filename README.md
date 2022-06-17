@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with labelling 🫐
 - 📫 How to reach me: email and twitter in bio
 
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
