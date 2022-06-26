@@ -7,6 +7,7 @@
 - 📫 How to reach me: email and twitter in bio
 
 ## My Current Projects
+- Nondestructive evaluation of Poultry meat mass
 - Peatland Restoration using GIS and Deep Learning
 - Soft Fruit yield prediction with Mask RCNN
 - Barley yield estimation and biodiversity monitoring from UAV imagery
