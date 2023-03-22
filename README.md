@@ -6,16 +6,21 @@
 - 🤔 I’m looking for help with labelling 🫐
 
 ## My Current Projects
-- Nondestructive evaluation of Poultry Tissue mass 
+- Non-destructive evaluation of Poultry Tissue mass 
 - Peatland Restoration using GIS and Deep Learning
 - Peatland Drainage Mapping using GIS and Deep Learning
 - Estimating Genotypic traits using Hyperspectral Imaging
 - Soft Fruit yield prediction with MaskRCNN/Detectron
 - Barley yield estimation and biodiversity monitoring from UAV imagery
 - Disease detection and forecasting
+- Hyperspectral Image Analysis Python Package for Crop Research
 
 ## Previous Work
-- 
+- Coded aperture spectral compressed sensing simulations
+- Development of efficient spatio-spectral target detection frameworks for aerial and satellite Imaging
+- Extension of the Morphological Hit-or-Miss Transform for use in Hyperspectral Imagery
+- Development of a hyperspectral crop camera for disease detection in agriculture
+- Non-destructive evaluation of graphite fuel channels
 
 More on my github pages website - https://f-macfarlane95.github.io/
 
