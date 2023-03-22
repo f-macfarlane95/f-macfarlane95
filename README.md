@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on Machine Learning for Bioinformatics Research and High Throughput Phenotyping
 - 🌱 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on Deep Learning for various Image Analysis tasks
-- 🤔 I’m looking for help with labelling 🫐
+- 🤔 I’m looking for help with labelling ![image](https://user-images.githubusercontent.com/6872236/227027355-3137c270-27bc-4d17-bac0-fe40828f3d95.png)
+
 
 ## My Current Projects
 - Non-destructive evaluation of Poultry Tissue mass 
