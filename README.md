@@ -4,12 +4,13 @@
 - 🌱 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on Deep Learning for various Image Analysis tasks
 - 🤔 I’m looking for help with labelling 🫐
-- 📫 How to reach me: email and twitter in bio
 
 ## My Current Projects
-- Nondestructive evaluation of Poultry meat mass
+- Nondestructive evaluation of Poultry Tissue mass 
 - Peatland Restoration using GIS and Deep Learning
-- Soft Fruit yield prediction with Mask RCNN
+- Peatland Drainage Mapping using GIS and Deep Learning
+- Estimating Genotypic traits using Hyperspectral Imaging
+- Soft Fruit yield prediction with MaskRCNN/Detectron
 - Barley yield estimation and biodiversity monitoring from UAV imagery
 - Disease detection and forecasting
 
