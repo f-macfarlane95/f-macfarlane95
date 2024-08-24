@@ -48,5 +48,5 @@ More on my github pages website - https://f-macfarlane95.github.io/
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-F05032.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
 
