@@ -47,3 +47,6 @@ More on my github pages website - https://f-macfarlane95.github.io/
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![SQL](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-F05032.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
+
