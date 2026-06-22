@@ -1,11 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning for Bioinformatics Research and High Throughput Phenotyping
-- 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on Deep Learning for various Image Analysis tasks
-- 🤔 I’m looking for help with labelling 🫐
-
-
 ## My Current Projects
 - Non-destructive evaluation of Poultry Tissue mass 
 - Peatland Restoration using GIS and Deep Learning
